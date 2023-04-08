@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+'Hello, my name is Hannah.'
+'I'm a student at Tech Elevator.'
+'I'm learning to become a software developer.'
+'My pronouns are she/her.'
+'Some fun facts about me are: I love to kayak, I have a pitt-mix named Raven, and I'm so ready to start this new chapter in my life!'
