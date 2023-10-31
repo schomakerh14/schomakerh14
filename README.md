@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hello, my name is Hannah.
-I'm a student at Tech Elevator.
-I'm learning to become a software developer.
-My pronouns are she/her.
-Some fun facts about me are: I love to kayak, I have a pitt-mix named Raven, and I'm so ready to start this new chapter in my life!
+
+I am a growing software developer. My previous experience as a teacher and artist, my love for continuous learning, and my drive to share my knowledge, have all built a strong foundation of skills that have brought me success. My abilities in conflict resolution, problem solving, honesty, communication, and dedication are my core skills that propel me forward. 
+
+I decided to make a big change in my life. While reflecting on my skills and interests, my love for language brought me to coding. Plus, the challenge to solve problems and improve programs has combined the analytical side of me with my desire to be creative. I am truly excited about my future in becoming a junior software developer where I can continue to learn and grow.
